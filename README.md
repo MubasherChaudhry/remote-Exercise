@@ -5,3 +5,7 @@
 5. stage the file by typing git add.
 6. add the commit by typing git commit -m "type the commit"
 7.  
+
+git push origin main --force
+
+8. i did jump on the new branch just to made some changes
